@@ -1,0 +1,77 @@
+.btn-white{
+  background-color: white;
+  // color: $primary;
+  &:hover{
+    background-color: $secondary;
+    // color:white;
+  }
+}
+
+.text-stroke{
+  -webkit-text-stroke: 3px $secondary;
+  color: white;
+}
+
+.list-square{
+  list-style-type: square;
+}
+
+.mb-223{
+  margin-bottom: 223px;
+}
+.mb-40{
+  margin-bottom: 40px;
+}
+
+.mb-534{
+  margin-bottom: 534px;
+}
+
+.mb-327{
+  margin-bottom: 327px;
+}
+
+.mb-60{
+  margin-bottom: 60px;
+}
+
+.mb-138{
+  margin-bottom: 138px;
+}
+
+.mb-113{
+  margin-bottom: 113px;
+}
+
+.mb-80{
+  margin-bottom: 80px;
+}
+
+.mb-250{
+  margin-bottom: 250px;
+}
+
+.pb-200{
+  padding-bottom: 200px;
+}
+
+.pt-115{
+  padding-top: 115px;
+}
+
+.text-yellow{
+  color: #FFC612;
+}
+
+.mb-50{
+  margin-bottom: 50px;
+}
+
+.mb-150{
+  margin-bottom: 150px;
+}
+
+.py-106{
+  padding-top: 106px;
+  padding-bottom: 106px;
+}
