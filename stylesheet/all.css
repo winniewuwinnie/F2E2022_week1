@@ -43,7 +43,7 @@
   --bs-black-rgb: 0, 0, 0;
   --bs-body-color-rgb: 33, 37, 41;
   --bs-body-bg-rgb: 255, 255, 255;
-  --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --bs-font-sans-serif: "Cubic";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
   --bs-body-font-family: var(--bs-font-sans-serif);
@@ -7039,10 +7039,6 @@ progress {
   font-family: "Cubic";
   src: url("../../font/Cubic-11-main/fonts/web/Cubic_11_1.013_R.woff") format("woff"), url("../../font/Cubic-11-main/fonts/web/Cubic_11_1.013_R.woff2") format("woff"), url("../../font/Cubic-11-main/fonts/ttf/Cubic_11_1.013_R.ttf") format("truetype");
 }
-body {
-  font-family: "Cubic";
-}
-
 .btn-white {
   background-color: white;
 }
@@ -7163,4 +7159,73 @@ body {
 .section-week {
   position: relative;
   height: 100vh;
+}
+
+.bg-left-1 {
+  width: 90%;
+}
+
+.bg-right-1 {
+  width: 49%;
+}
+
+.bg-left-2 {
+  width: 49%;
+}
+
+.bg-right-2 {
+  width: 51%;
+}
+
+.bg-left-3 {
+  width: 51%;
+}
+
+.bg-right-3 {
+  width: 49%;
+}
+
+.mb-243 {
+  margin-bottom: 243px;
+}
+
+.web {
+  display: block;
+  margin: 0 auto;
+  padding: 60px 0px 60px 0px;
+  max-width: 637px;
+  height: auto;
+}
+
+.tank {
+  max-width: 336px;
+  height: auto;
+}
+
+.top-3 {
+  top: 3%;
+}
+
+.top-35 {
+  top: 35%;
+}
+
+.top-45 {
+  top: 45%;
+}
+
+.start-42 {
+  left: 42%;
+}
+
+.start-55 {
+  left: 55%;
+}
+
+.start-75 {
+  left: 75%;
+}
+
+.text-stroke {
+  -webkit-text-stroke: 1px #3C0C00;
 }/*# sourceMappingURL=all.css.map */
