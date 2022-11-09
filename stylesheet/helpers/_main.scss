@@ -1,178 +1,216 @@
-.btn-white{
+.btn-white {
   background-color: white;
   // color: $primary;
-  &:hover{
+  &:hover {
     background-color: $secondary;
     // color:white;
   }
 }
 
-.text-stroke{
+.text-stroke {
   -webkit-text-stroke: 3px $secondary;
   color: white;
 }
 
-.list-square{
+.list-square {
   list-style-type: square;
 }
 
-.mb-223{
+.mb-223 {
   margin-bottom: 223px;
 }
-.mb-40{
+.mb-40 {
   margin-bottom: 40px;
 }
 
-.mb-534{
+.mb-534 {
   margin-bottom: 534px;
 }
 
-.mb-327{
+.mb-327 {
   margin-bottom: 327px;
 }
 
-.mb-60{
+.mb-60 {
   margin-bottom: 60px;
 }
 
-.mb-138{
+.mb-138 {
   margin-bottom: 138px;
 }
 
-.mb-113{
+.mb-113 {
   margin-bottom: 113px;
 }
 
-.mb-80{
+.mb-80 {
   margin-bottom: 80px;
 }
 
-.mb-250{
+.mb-250 {
   margin-bottom: 250px;
 }
 
-.pb-200{
+.pb-200 {
   padding-bottom: 200px;
 }
 
-.pt-115{
+.pt-115 {
   padding-top: 115px;
 }
 
-.text-yellow{
-  color: #FFC612;
+.text-yellow {
+  color: #ffc612;
 }
 
-.mb-50{
+.mb-50 {
   margin-bottom: 50px;
 }
 
-.mb-150{
+.mb-150 {
   margin-bottom: 150px;
 }
 
-.py-106{
+.py-106 {
   padding-top: 106px;
   padding-bottom: 106px;
 }
 
-.z-0{
+.z-0 {
   z-index: 0;
 }
-.z-10{
+.z-10 {
   z-index: 10;
 }
-.z-20{
+.z-20 {
   z-index: 20;
 }
-.z-30{
+.z-30 {
   z-index: 30;
 }
-.z-40{
+.z-40 {
   z-index: 40;
 }
-.z-50{
+.z-50 {
   z-index: 50;
 }
-.bg-blue{
-  background-color: #76B9D6;
+.bg-blue {
+  background-color: #76b9d6;
 }
-.text-blue{
-  color: #0061A1;
+.text-blue {
+  color: #0061a1;
 }
-.bg-green{
+.bg-green {
   background-color: #215400;
 }
-.text-green{
-  color: #C7FFA3;
+.text-green {
+  color: #c7ffa3;
 }
-.section-week{
+.section-week {
   position: relative;
   height: 100vh;
 }
 
 // 前導動畫
-.bg-left-1{
-  width:90%;
+.bg-left-1 {
+  width: 90%;
 }
-.bg-right-1{
-  width:49%;
+.bg-right-1 {
+  width: 49%;
 }
-.bg-left-2{
-  width:49%;
+.bg-left-2 {
+  width: 49%;
 }
-.bg-right-2{
-  width:51%;
+.bg-right-2 {
+  width: 51%;
 }
-.bg-left-3{
-  width:51%;
+.bg-left-3 {
+  width: 51%;
 }
-.bg-right-3{
-  width:49%;
+.bg-right-3 {
+  width: 49%;
 }
-.mb-243{
+.mb-243 {
   margin-bottom: 243px;
 }
-.web{
+.web {
   display: block;
   margin: 0 auto;
   padding: 60px 0px 60px 0px;
   max-width: 637px;
   height: auto;
 }
-.tank{
+.tank {
   max-width: 336px;
   height: auto;
 }
-.top-3{
-  top:3%;
+.top-3 {
+  top: 3%;
 }
-.top-35{
-  top:35%;
+.top-35 {
+  top: 35%;
 }
-.top-45{
-  top:45%;
+.top-45 {
+  top: 45%;
 }
-.start-42{
+.start-42 {
   left: 42%;
 }
-.start-55{
+.start-55 {
   left: 55%;
 }
-.start-66{
+.start-66 {
   left: 66%;
 }
-.text-stroke{
+.text-stroke {
   -webkit-text-stroke: 1px $secondary;
 }
 
-//比賽說明
-.mb-450{
-  margin-bottom: 450px;
+//三周活動
+.pt-227 {
+  padding-top: 227px;
+}
+.pb-173 {
+  padding-bottom: 173px;
 }
 
+.top-41 {
+  top: 41%;
+}
+.start-47 {
+  left: 47%;
+}
+.line {
+    border-bottom: 5px dashed rgba($color: #ffffff, $alpha: 0.5);
+}
+.top-85{
+  top:85%;
+}
+.w-49{
+  width: 49%;
+}
+
+//活動時間
+.mb-73{
+  margin-bottom: 73px;
+}
+
+//比賽說明
+.mb-450 {
+  margin-bottom: 450px;
+}
+.mb-326{
+  margin-bottom: 326px;
+}
+.time-line{
+  height: 370px;
+  border-left: 5px dashed rgba($color: #ffffff, $alpha: 0.5);
+  position: absolute;
+  left:9.28%;
+  top:100%;
+}
 // 常見問答
-.py-35{
+.py-35 {
   padding-top: 35px;
   padding-bottom: 35px;
 }
