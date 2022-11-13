@@ -6,10 +6,12 @@
 // }
 
 @font-face {
-  font-family: 'Cubic';
-  src: url("../../font/Cubic_11_1.013_R.woff");
+  font-family: "Cubic";
+  src: url("../../font/Cubic_11_1.013_R.woff") format("woff"),
+    url("../../font/Cubic_11_1.013_R.woff2") format("woff"),
+    url("../../font/Cubic_11_1.013_R.ttf") format("truetype");
 }
 
 body {
-  font-family: 'Cubic' ;
+  font-family: "Cubic";
 }
