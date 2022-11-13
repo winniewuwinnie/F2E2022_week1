@@ -7197,8 +7197,12 @@ progress {
 }
 @font-face {
   font-family: "Cubic";
-  src: url("../../font/Cubic-11-main/fonts/web/Cubic_11_1.013_R.woff") format("woff"), url("../../font/Cubic-11-main/fonts/web/Cubic_11_1.013_R.woff2") format("woff"), url("../../font/Cubic-11-main/fonts/ttf/Cubic_11_1.013_R.ttf") format("truetype");
+  src: url("../../font/Cubic_11_1.013_R.woff");
 }
+body {
+  font-family: "Cubic";
+}
+
 .btn-white {
   background-color: white;
 }
